@@ -2,13 +2,8 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hi,
+I am Rugved Raorane,thanks for visting my portfolio website
 
 # Project 1:Fraud Detection
 
@@ -18,27 +13,8 @@ Fraud detection is a set of processes and analyses that allow businesses to iden
 ## Project 2
 Dynamic Programming algorithm
 
-
-
 ### Project 3
 Divide and Conqour algorithm
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Personal Detail.
 <dl>
