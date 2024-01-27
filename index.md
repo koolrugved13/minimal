@@ -45,7 +45,7 @@ end
 <dt>Name:</dt>
 <dd>Rugved Raorane</dd>
 <dt>Born:</dt>
-<dd>1952</dd>
+<dd>2001</dd>
 <dt>Birthplace</dt>
 <dd>Navi Munbai</dd>
 <dt>Color</dt>
